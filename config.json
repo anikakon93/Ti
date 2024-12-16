@@ -22,16 +22,16 @@
   "commandDisabled": [],
   "eventDisabled": [],
   "BOTNAME": "Bot Pack v2",
-  "PREFIX": "?",
+  "PREFIX": "/",
   "ADMINBOT": [
-    "100044327656712",
-    "100090108488920"
+    "100079235195789",
+    "100079235195789"
   ],
   "reactUnsend": [
-    "😡",
-    "😾",
-    "👎",
-    "😠"
+    "😐",
+    "😐",
+    "😐",
+    "😐"
   ],
   "DESIGN": {
     "Title": "BotPack",
